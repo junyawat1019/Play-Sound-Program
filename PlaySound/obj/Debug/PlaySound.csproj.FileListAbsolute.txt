@@ -1,0 +1,11 @@
+D:\Studio\Project\C, C++, C#\C#\PlaySound\PlaySound\bin\Debug\PlaySound.exe.config
+D:\Studio\Project\C, C++, C#\C#\PlaySound\PlaySound\bin\Debug\PlaySound.exe
+D:\Studio\Project\C, C++, C#\C#\PlaySound\PlaySound\bin\Debug\PlaySound.pdb
+D:\Studio\Project\C, C++, C#\C#\PlaySound\PlaySound\obj\Debug\PlaySound.csproj.AssemblyReference.cache
+D:\Studio\Project\C, C++, C#\C#\PlaySound\PlaySound\obj\Debug\PlaySound.csproj.SuggestedBindingRedirects.cache
+D:\Studio\Project\C, C++, C#\C#\PlaySound\PlaySound\obj\Debug\PlaySound.Form1.resources
+D:\Studio\Project\C, C++, C#\C#\PlaySound\PlaySound\obj\Debug\PlaySound.Properties.Resources.resources
+D:\Studio\Project\C, C++, C#\C#\PlaySound\PlaySound\obj\Debug\PlaySound.csproj.GenerateResource.cache
+D:\Studio\Project\C, C++, C#\C#\PlaySound\PlaySound\obj\Debug\PlaySound.csproj.CoreCompileInputs.cache
+D:\Studio\Project\C, C++, C#\C#\PlaySound\PlaySound\obj\Debug\PlaySound.exe
+D:\Studio\Project\C, C++, C#\C#\PlaySound\PlaySound\obj\Debug\PlaySound.pdb
